@@ -307,3 +307,4 @@ OrderDate,Region,City,Category,Product,Quantity,UnitPrice,TotalPrice
 2023-09-18,East,Boston,Bars,Carrot,40.0,0.05,2.0
 2025-02-02,East,Boston,Bars,Carrot,5.0,2.5,12.5
 2025-02-10,West,Los Angeles,Snacks,Potato Chips,2.0,5.0,10.0
+2025-01-20,East,Boston,Bars,Oatmeal Raisin,10.0,2.25,22.5
